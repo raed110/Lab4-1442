@@ -1,0 +1,33 @@
+body {
+font-family: "Palatino Linotype", sans-serif;
+font-size:16px;
+line-height:2.0;
+background: #eef;
+text-align:justify;
+margin:5px;
+}
+h1 {
+font-family: "Merriweather", serif;
+font-size:24px;
+background-image: url('D:\Raed Al-Subhi\my internet site\gitrepo\Lab4-1442\img/css_header.png');
+color:blue;
+text-align:center;
+text-transform:uppercase;
+}
+img{
+	width:25%;
+	float:lift;
+	clear:both;
+}
+article, aside, footer, header, menu, nav, section {
+display: block;
+}
+article,section{
+	margin:20px
+}
+mages, nav, texts, aside{
+	padding:2;
+}
+nav{
+	float:lift;
+}
